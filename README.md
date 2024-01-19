@@ -1,1 +1,1 @@
-teri meri meri teri 
+print('make a dashboard')
